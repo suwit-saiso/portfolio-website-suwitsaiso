@@ -820,6 +820,11 @@ main {
   border-radius: inherit;
 }
 
+.skill-icons {
+  display: flex;
+  justify-content: space-between
+}
+
 /*-----------------------------------*\
   #PORTFOLIO
 \*-----------------------------------*/
